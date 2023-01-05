@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcb509e0.css",
+    "main.js": "/static/js/main.fd1c30be.js",
+    "static/js/787.d04104f7.chunk.js": "/static/js/787.d04104f7.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.9985a40fa266395e0ca1.jpg",
+    "static/media/Shampoorestaurador cabello seco.jpeg": "/static/media/Shampoorestaurador cabello seco.543168544cb0007a0608.jpeg",
+    "static/media/Balsamo-humectante.jpeg": "/static/media/Balsamo-humectante.9712b7f1ff5c9a6d086d.jpeg",
+    "static/media/ShampooPielSensibleDeAlmendrasyNaranjaParaCabelloSano.jpeg": "/static/media/ShampooPielSensibleDeAlmendrasyNaranjaParaCabelloSano.b312326daf703121760d.jpeg",
+    "static/media/Balsamo-hidratante.jpeg": "/static/media/Balsamo-hidratante.251419b7da71db54bccb.jpeg",
+    "static/media/Shampoo Restaurador de Cacao.jpeg": "/static/media/Shampoo Restaurador de Cacao.1b5b5f624b8abfee532a.jpeg",
+    "static/media/sh equilibrado cabello normal mixto.jpeg": "/static/media/sh equilibrado cabello normal mixto.7ddaae3e0a7b0f85471f.jpeg",
+    "static/media/shampooFortalecedorCabelloGraso.jpeg": "/static/media/shampooFortalecedorCabelloGraso.c4f25f26b6327c847f67.jpeg",
+    "index.html": "/index.html",
+    "main.dcb509e0.css.map": "/static/css/main.dcb509e0.css.map",
+    "main.fd1c30be.js.map": "/static/js/main.fd1c30be.js.map",
+    "787.d04104f7.chunk.js.map": "/static/js/787.d04104f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb509e0.css",
+    "static/js/main.fd1c30be.js"
+  ]
+}
